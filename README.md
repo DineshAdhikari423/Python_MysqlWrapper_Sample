@@ -1,9 +1,9 @@
-# Dependencies:
+# Dependencies
 ============= 
 * python version 2.7
 * pip install MySQL-python
 
-# Usage:
+# Usage
 ======
 """
 This class helps to connect with MySQL server to do all CURD operations
